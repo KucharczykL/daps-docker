@@ -6,7 +6,6 @@ A Docker image of DAPS (DocBook Authoring and Publishing Suite), a toolchain use
    The content of the file should be something like this:
 ```yaml
 version: '3'
-
 services:
   daps:
     image: lkucharczyk/daps
